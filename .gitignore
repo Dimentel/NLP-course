@@ -5,3 +5,6 @@
 *.bin
 *.npy
 *.zip
+*all-MiniLM-L6-v2/*
+*deberta-v3-base/*
+*qqp_finetuned/*
